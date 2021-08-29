@@ -1,0 +1,62 @@
+body{
+    background-color: darkcyan;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.header_div{
+    background-color: white;
+    color:darkslateblue;
+
+}
+.header_div img{
+    width: 100px;
+
+}
+.main_div{
+    background-color: lightcoral;
+    padding: 10px;
+    margin-top: 20px;
+    border: 3px solid lightsalmon;
+}
+.main_div label{
+    background-color: lightsteelblue;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 20px mediumpurple;
+}
+#camera, #result{
+    border: 2px solid darkturquoise;
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 20px mediumpurple;
+}
+.main_div button{
+    width: 300px;
+    font-size: 20px;
+    box-shadow: 5px 5px 20px mediumpurple;
+    border: 1px solid darkgreen;
+
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background-color: lightpink;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 20px mediumpurple;
+}
+.footer_div img{
+    width:70px;
+
+}
+.copyright_footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: darkgreen;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    line-height: 3;
+    font-size: 25px;
+}
